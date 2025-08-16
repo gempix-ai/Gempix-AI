@@ -1,6 +1,6 @@
-# Gempix AI
+# GemPix AI
 
-[Gempix AI](https://gempix.ai/) is a free AI image editor that lets you transform, edit, and enhance photos with natural text prompts. Easily remove objects, change styles, and create stunning visuals in seconds. Fast, Free, No Sign-up, Unlimited. It's designed for artists, designers, and anyone who wants to bring their creative visions to life.
+[GemPix AI](https://gempix.ai/) is a free AI image editor that lets you transform, edit, and enhance photos with natural text prompts. Easily remove objects, change styles, and create stunning visuals in seconds. Fast, Free, No Sign-up, Unlimited. It's designed for artists, designers, and anyone who wants to bring their creative visions to life.
 
 - Free & Unlimited Access: Enjoy unlimited image generations & edits — no sign-up, no hidden costs.
 
@@ -14,7 +14,7 @@
 
 - Lightning-Fast Generation: Generate 1K resolution images in just 3.0 seconds with our innovative acceleration technology. Experience unprecedented speed without compromising quality.
 
-- Context Understanding: Leverage the power of Gempix's deep contextual understanding to create images that perfectly match your vision. The AI comprehends complex relationships between objects, lighting, and composition for truly intelligent image generation.
+- Context Understanding: Leverage the power of GemPix's deep contextual understanding to create images that perfectly match your vision. The AI comprehends complex relationships between objects, lighting, and composition for truly intelligent image generation.
 
 - Natural Language Interface: Edit images using intuitive text prompts without complex tools or workflows. Describe changes like "replace the sign text with 'SOLD'" or "add sunglasses to the character" for precise, high-quality results in seconds.
 
